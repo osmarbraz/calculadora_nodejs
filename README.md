@@ -48,5 +48,5 @@
     `http://localhost:8000/produto/<VALOR1>/<VALOR1>`
 
 - Serviço de divisão via GET.
-    substitua \<VALOR1\> e \<VALOR2\> pelos valores a serem divididos.<br>
-    http://localhost:8000/divisao/<VALOR1>/<VALOR1>        
+    Substitua `<VALOR1\>` e `<VALOR2\>` pelos valores a serem divididos.<br>
+    `http://localhost:8000/divisao/<VALOR1>/<VALOR1>`
